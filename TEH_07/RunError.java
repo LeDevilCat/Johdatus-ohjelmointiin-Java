@@ -1,4 +1,4 @@
-package TEH_07;
+package TEH_07; 
 
 public class RunError {
     public static void main (String[] args){
